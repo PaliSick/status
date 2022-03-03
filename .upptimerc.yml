@@ -13,7 +13,6 @@ sites:
     url: https://amazon.idirecto.es/
     
 assignees:
-  - idirecto
   - palisick
 
 status-website:
